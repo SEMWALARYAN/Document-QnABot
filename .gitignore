@@ -1,0 +1,26 @@
+# Environment variables (CRITICAL: keeps your API keys private)
+.env
+.env*.local
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / uploaded files
+uploaded_document.pdf
+*.pdf
+
+# macOS system files
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
