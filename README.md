@@ -65,7 +65,7 @@ An AI-powered Document Question & Answering web application built with **Streaml
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Document-QnABot.git
+git clone https://github.com/SEMWALARYAN/Document-QnABot.git
 cd Document-QnABot
 ```
 
@@ -150,7 +150,14 @@ You should see `.env` listed as ignored (or not appearing under untracked files)
 git add app.py requirements.txt README.md .gitignore .env.example
 git commit -m "Initial commit: Document Q&A Bot with Gemini and Streamlit"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+git remote add origin https://github.com/SEMWALARYAN/Document-QnABot.git
 git push -u origin main
 ```
+
+---
+
+## 👤 Author
+
+- **Aryan Semwal** - [@SEMWALARYAN](https://github.com/SEMWALARYAN)
+
 
